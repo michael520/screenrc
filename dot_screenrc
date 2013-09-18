@@ -1,0 +1,4 @@
+caption always "%{=u .r} %-w%<%{=ub .Y}%n %t%{=u .r}%+w "
+hardstatus alwaysignore
+hardstatus alwayslastline "%{= .K} [%l]%<%=%{= .Y}$USER%{= .R}@%H %=%{= .m} %Y/%m/%d%{= .M} %0c "
+
